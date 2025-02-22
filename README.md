@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bishal Kc</h1>
 <h3 align="center">A passionate MERN stack developer from Nepal.</h3>
 
-<img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techno-bishal&label=Profile%20views&color=0e75b6&style=flat" alt="techno-bishal" /> </p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Namaste%F0%9F%99%8F;I'm+Computer+Science+Student%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Keen+interest+in+Tech%F0%9F%9A%80;I'm+a+SelfLearner%F0%9F%8D%83" alt="Typing SVG" /></a>
